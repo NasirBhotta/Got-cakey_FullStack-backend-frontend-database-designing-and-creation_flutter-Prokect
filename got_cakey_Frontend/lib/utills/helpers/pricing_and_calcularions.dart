@@ -1,0 +1,1 @@
+// here i have to add all method that are gonna help me in calculating prices and other related things
